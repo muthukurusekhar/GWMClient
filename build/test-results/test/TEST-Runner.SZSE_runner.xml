@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Runner.SZSE_runner" tests="0" skipped="0" failures="0" errors="0" timestamp="1970-01-01T00:00:00" hostname="PS-UVWGMOWB01" time="0.0">
+  <properties/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[WARNING: Found tags option '@SZSE_BUY_Order_All_Fields_PartialFill_Diffordprice,@SZSE_SELL_Order_All_Fields_FullFill_Diffordprice,@Retrive_SZSE_BUYL_Order_Diffordprice,@Retrieve_SZSE_SELL_Order_Diffordprice'. Support for '@tag1,@tag2' will be removed from the next release of Cucumber-JVM. Please use '@tag or @tag2' instead
+]]></system-err>
+</testsuite>
